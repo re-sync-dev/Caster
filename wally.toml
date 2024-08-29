@@ -1,0 +1,13 @@
+[package]
+name = "vyon/package"
+description = "Generic package description"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+license = "MIT"
+realm = "shared"
+authors = ["Vyon (https://github.com/Vyon)"]
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.toml"]
+
+[dependencies]

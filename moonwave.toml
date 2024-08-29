@@ -1,0 +1,25 @@
+title = "Package"
+gitRepoUrl = "https://github.com/re-sync-dev/Package" # From Git
+gitSourceBranch = "main"
+changelog = true
+
+[docusaurus]
+onBrokenLinks = "ignore"
+onBrokenMarkdownLinks = "warn"
+
+# From git:
+url = "https://re-sync-dev.github.io"
+projectName = "Package"
+baseUrl = "/Package"
+tagline = "Generic slogan here."
+
+[navbar]
+title = "Package"
+
+[home]
+enabled = true
+includeReadme = false
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2024 Re-Sync. Built with Moonwave and Docusaurus"
