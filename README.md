@@ -1,5 +1,5 @@
-# Package
-<!-- Add package description -->
+# Caster
+Simple & straight forward raycast based projectile module.
 
 ## Style Guide
 For further information about styling see [STYLING.md](STYLING.md).

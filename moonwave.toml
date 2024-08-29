@@ -1,5 +1,5 @@
-title = "Package"
-gitRepoUrl = "https://github.com/re-sync-dev/Package" # From Git
+title = "Caster"
+gitRepoUrl = "https://github.com/re-sync-dev/Caster" # From Git
 gitSourceBranch = "main"
 changelog = true
 
@@ -9,12 +9,9 @@ onBrokenMarkdownLinks = "warn"
 
 # From git:
 url = "https://re-sync-dev.github.io"
-projectName = "Package"
-baseUrl = "/Package"
-tagline = "Generic slogan here."
-
-[navbar]
-title = "Package"
+projectName = "Caster"
+baseUrl = "/Caster"
+tagline = "Simple & straight forward raycast based projectile module."
 
 [home]
 enabled = true

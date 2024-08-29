@@ -1,6 +1,6 @@
 [package]
-name = "vyon/package"
-description = "Generic package description"
+name = "vyon/caster"
+description = "Simple & straight forward raycast based projectile module."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 license = "MIT"
@@ -11,3 +11,4 @@ exclude = ["**"]
 include = ["src", "src/*", "default.project.json", "wally.toml"]
 
 [dependencies]
+Signal = "data-oriented-house/lemonsignal@1.10.0"

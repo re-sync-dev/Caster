@@ -32,7 +32,7 @@ jobs:
                   done
 
                   wally install
-                  rojo build build.project.json -o Package.rbxm
+                  rojo build build.project.json -o Caster.rbxm
 
                   cd ./examples
                   zip -r Examples.zip .
@@ -45,6 +45,6 @@ jobs:
                   prerelease: false
                   automatic_release_tag: "Latest"
                   files: |
-                      Package.rbxm
+                      Caster.rbxm
                       Examples.zip
                       LICENSE
